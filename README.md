@@ -46,18 +46,10 @@ When I'm not coding, I usually enjoy playing games 🎮, watching movies 🎬 or
 
 ## 🌍 Find me around the web
 
-- 💼 LinkedIn: https://linkedin.com/in/seu-linkedin  
-- 🌐 Portfolio: https://seu-portfolio.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/rhuan-souza-5517492b6/
+- 🌐 Portfolio: ...
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ✨ Always learning. Always building.
