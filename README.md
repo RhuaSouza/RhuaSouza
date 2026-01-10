@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hello, I'm Rhuan
 
-<!--
-**RhuaSouza/RhuaSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer from Brazil who enjoys learning by building real-world applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a **fullstack developer** focused on **web and mobile development**, always improving my skills through hands-on projects.
+
+I like understanding how applications work end to end — from **backend APIs and databases** to **frontend interfaces and mobile experiences**.
+
+When I'm not coding, I usually enjoy playing games 🎮, watching movies 🎬 or listening to music 🎧.
+
+---
+
+## 🧠 Currently working with
+
+- React & React Native  
+- Next.js  
+- JavaScript & TypeScript  
+- Node.js & .NET  
+- REST APIs & JWT authentication  
+- MySQL databases  
+- Tailwind CSS for styling  
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,dotnet,mysql,tailwind,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📌 What I’m improving
+
+- Application architecture  
+- Clean code and best practices  
+- Backend & frontend integration  
+- Mobile and web UI/UX  
+- Performance and scalability  
+
+---
+
+## 🌍 Find me around the web
+
+- 💼 LinkedIn: https://linkedin.com/in/seu-linkedin  
+- 🌐 Portfolio: https://seu-portfolio.com  
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+✨ Always learning. Always building.
