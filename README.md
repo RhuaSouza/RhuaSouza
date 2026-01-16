@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Rhuan
+# Hello, I'm Rhuan
 
-💻 Developer from Brazil who enjoys learning by building real-world applications.
+ Developer from Brazil who enjoys learning by building real-world applications.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **fullstack developer** focused on **web and mobile development**, always improving my skills through hands-on projects.
 
