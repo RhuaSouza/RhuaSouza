@@ -14,18 +14,6 @@ I like understanding how applications work end to end — from **backend APIs an
 
 ---
 
-## 🧠 Currently working with
-
-- React & React Native  
-- Next.js  
-- JavaScript & TypeScript  
-- Node.js & .NET  
-- REST APIs & JWT authentication  
-- MySQL databases  
-- Tailwind CSS for styling  
-
----
-
 ## 🛠️ Tech Stack
 
 <p>
