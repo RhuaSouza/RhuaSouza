@@ -10,7 +10,7 @@ I'm a **fullstack developer** focused on **web and mobile development**, always 
 
 I like understanding how applications work end to end — from **backend APIs and databases** to **frontend interfaces and mobile experiences**.
 
-When I'm not coding, I usually enjoy playing games 🎮, watching movies 🎬 or listening to music 🎧.
+
 
 ---
 
